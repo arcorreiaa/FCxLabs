@@ -1,7 +1,7 @@
 <img src="https://github.com/arcorreiaa/FCxLabs/blob/master/public/fc.png" alt="Logo of the project" align="right">
 </br>
 
-# Teste Ferreia Costa Labs 
+# Teste Ferreira Costa Labs 
 
 > O Desafio
 Seu objetivo é criar um simples crud que exibe um
