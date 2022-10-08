@@ -12,7 +12,7 @@ function Home() {
   }, [update]);
 
   return (
-    <div className="md:h-screen h-screen bg-gradient-to-b from-red-200 to-red-700 justify-center items-center">
+    <div className="md:h-screen bg-gradient-to-b from-red-200 to-red-700 justify-center items-center">
       <div>
         <Button />
       </div>
