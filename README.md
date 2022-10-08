@@ -19,7 +19,7 @@ formulário com os campos abaixo, e outra que liste os dados cadastrados.
 <div align="center">
 </br></br>
  
-<img src="https://github.com/arcorreiaa/FCxLabs/blob/master/src/img/fclabs.gif" width="1200" height="600" alt="Logo of the project" align="center">
+<img src="https://github.com/arcorreiaa/FCxLabs/blob/master/src/img/fclabs.gif" width="900" height="450" alt="Logo of the project" align="center">
 </div>
 </br>
 
