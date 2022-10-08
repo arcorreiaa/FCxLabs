@@ -100,7 +100,7 @@ function ModalForm({ isOpen, setIsOpen, dataUser, setUpdate, update }) {
   };
 
   return (
-    <div className="justify-center items-center lg:h-40 h-20">
+    <div className="justify-center items-center lg:h-40 h-screen">
       <Modal
         style={{
           overlay: {
